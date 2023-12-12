@@ -1,2 +1,3 @@
 # billGenerator
-Program to create bills and make discounts.
+Bill Creation Program with Discount Features ✍️💳💸
+Made with Java
